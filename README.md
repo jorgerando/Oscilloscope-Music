@@ -1,2 +1,2 @@
 # Oscilloscope-Music
- A suite of programs that allows you to render graphs on oscilloscopes
+ A suite of programs that allows you to render graphs on oscilloscopes (beta)
