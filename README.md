@@ -13,6 +13,7 @@
 - The Discrete Fourier Transform : https://www.youtube.com/watch?v=nl9TZanwbBk
 - Wikipedia : https://es.wikipedia.org/wiki/Serie_de_Fourier
 - Python Generate Audio : https://www.youtube.com/watch?v=lbV2SoeAggU
+- Creation a signal : https://shinao.github.io/PathToPoints/
 ## Autor
 * Jorge Rando Hernández :part_alternation_mark: [@jorgerando](https://github.com/jorgerando)
 
